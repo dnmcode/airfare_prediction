@@ -8,3 +8,36 @@ Inquiry Date,Inquiry Time,Flight Date,From,To,Airline,Departure,Arrival,Stops,Du
 2019-08-01,11:10:59,2019-12-01,ABQ,SFO,United, 7:00 AM ,1:05 PM,1 stop,7h 5m,       $422   
 2019-08-01,11:10:59,2019-12-01,ABQ,SFO,Alaska, 3:05 PM ,4:45 PM,Nonstop,2h 40m,       $439   
 2019-08-01,11:10:59,2019-12-01,ABQ,SFO,United, 3:24 PM ,5:00 PM,Nonstop,2h 36m,       $519   
+2019-08-01,11:17:10,2019-11-27,SFO,IAH,American, 3:40 PM ,11:34 PM,1 stop,5h 54m,       $229   
+2019-08-01,11:17:10,2019-11-27,SFO,IAH,United, 12:55 AM ,6:33 AM,Nonstop,3h 38m,    $284   
+2019-08-01,11:17:10,2019-11-27,SFO,IAH,United, 11:25 AM ,5:03 PM,Nonstop,3h 38m,    $284   
+2019-08-01,11:17:10,2019-11-27,SFO,IAH,United, 11:55 PM ,5:24 AM,Nonstop,3h 29m,    $284   
+2019-08-01,11:17:16,2019-12-01,IAH,SFO,United, 7:29 AM ,9:45 AM,Nonstop,4h 16m,    $284   
+2019-08-01,11:17:16,2019-12-01,IAH,SFO,United, 6:50 PM ,9:03 PM,Nonstop,4h 13m,    $284   
+2019-08-01,11:17:16,2019-12-01,IAH,SFO,United, 9:39 PM ,11:56 PM,Nonstop,4h 17m,       $413   
+2019-08-01,11:17:16,2019-12-01,IAH,SFO,United, 11:59 PM ,2:16 AM,Nonstop,4h 17m,       $413   
+2019-08-01,11:17:21,2019-11-27,SFO,HOU,American, 12:35 AM ,8:13 AM,1 stop,5h 38m,       $229   
+2019-08-01,11:17:21,2019-11-27,SFO,HOU,American, 6:00 AM ,1:48 PM,1 stop,5h 48m,       $229   
+2019-08-01,11:17:21,2019-11-27,SFO,HOU,American, 3:40 PM ,11:17 PM,1 stop,5h 37m,       $265   
+2019-08-01,11:17:27,2019-12-01,HOU,SFO,American, 5:00 AM ,12:23 PM,2 stops,9h 23m,       $482   
+2019-08-01,11:17:27,2019-12-01,HOU,SFO,American, 5:00 AM ,8:56 AM,1 stop,5h 56m,       $521   
+2019-08-01,11:17:27,2019-12-01,HOU,SFO,American, 6:30 AM ,10:57 AM,1 stop,6h 27m,       $521   
+2019-08-01,11:17:27,2019-12-01,HOU,SFO,American, 10:29 AM ,2:40 PM,1 stop,6h 11m,       $521   
+2019-08-01,11:17:27,2019-12-01,HOU,SFO,American, 12:30 PM ,4:30 PM,1 stop,6h 0m,       $521   
+2019-08-01,11:17:32,2019-11-27,SFO,AUS,United, 11:55 PM ,5:20 AM,Nonstop,3h 25m,    $139   
+2019-08-01,11:17:32,2019-11-27,SFO,AUS,United, 10:50 AM ,4:26 PM,Nonstop,3h 36m,    $168   
+2019-08-01,11:17:32,2019-11-27,SFO,AUS,United, 4:49 PM ,10:13 PM,Nonstop,3h 24m,    $168   
+2019-08-01,11:17:32,2019-11-27,SFO,AUS,Frontier, 9:00 AM ,2:35 PM,Nonstop,3h 35m,    $189   
+2019-08-01,11:17:37,2019-12-01,AUS,SFO,United, 6:00 AM ,8:00 AM,Nonstop,4h 0m,    $253   
+2019-08-01,11:17:37,2019-12-01,AUS,SFO,American, 6:20 AM ,9:45 AM,1 stop,5h 25m,       $440   
+2019-08-01,11:17:37,2019-12-01,AUS,SFO,Alaska, 7:00 AM ,8:40 AM,Nonstop,3h 40m,       $442   
+2019-08-01,11:17:37,2019-12-01,AUS,SFO,Alaska, 3:55 PM ,5:40 PM,Nonstop,3h 45m,       $442   
+2019-08-01,11:17:43,2019-11-27,SFO,DFW,United, 2:19 PM ,11:48 PM,1 stop,7h 29m,    $112   
+2019-08-01,11:17:43,2019-11-27,SFO,DFW,American, 12:35 AM ,6:07 AM,Nonstop,3h 32m,       $174   
+2019-08-01,11:17:43,2019-11-27,SFO,DFW,American, 6:00 AM ,11:43 AM,Nonstop,3h 43m,       $174   
+2019-08-01,11:17:43,2019-11-27,SFO,DFW,American, 3:40 PM ,9:17 PM,Nonstop,3h 37m,       $174   
+2019-08-01,11:17:43,2019-11-27,SFO,DFW,United, 6:21 PM ,11:59 PM,Nonstop,3h 38m,    $204   
+2019-08-01,11:17:48,2019-12-01,DFW,SFO,United, 6:17 AM ,8:35 AM,Nonstop,4h 18m,       $284   
+2019-08-01,11:17:48,2019-12-01,DFW,SFO,United, 7:35 AM ,9:40 AM,Nonstop,4h 5m,       $327   
+2019-08-01,11:17:48,2019-12-01,DFW,SFO,American, 7:10 AM ,12:23 PM,1 stop,7h 13m,       $342   
+2019-08-01,11:17:48,2019-12-01,DFW,SFO,American, 10:20 PM ,11:59 PM,Nonstop,3h 39m,       $454   
