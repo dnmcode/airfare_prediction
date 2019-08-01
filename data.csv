@@ -1,1 +1,10 @@
 Inquiry Date,Inquiry Time,Flight Date,From,To,Airline,Departure,Arrival,Stops,Duration,Price
+2019-08-01,11:10:53,2019-11-27,SFO,ABQ,United, 2:19 PM ,8:18 PM,1 stop,4h 59m,    $154   
+2019-08-01,11:10:53,2019-11-27,SFO,ABQ,United, 6:00 PM ,11:47 PM,1 stop,4h 47m,    $177   
+2019-08-01,11:10:53,2019-11-27,SFO,ABQ,Delta, 6:00 AM ,12:03 PM,1 stop,5h 3m,       $185   
+2019-08-01,11:10:53,2019-11-27,SFO,ABQ,United, 7:00 PM ,10:24 PM,Nonstop,2h 24m,    $204   
+2019-08-01,11:10:53,2019-11-27,SFO,ABQ,United, 10:40 AM ,2:20 PM,Nonstop,2h 40m,    $242   
+2019-08-01,11:10:59,2019-12-01,ABQ,SFO,United, 6:05 AM ,8:00 AM,Nonstop,2h 55m,       $304   
+2019-08-01,11:10:59,2019-12-01,ABQ,SFO,United, 7:00 AM ,1:05 PM,1 stop,7h 5m,       $422   
+2019-08-01,11:10:59,2019-12-01,ABQ,SFO,Alaska, 3:05 PM ,4:45 PM,Nonstop,2h 40m,       $439   
+2019-08-01,11:10:59,2019-12-01,ABQ,SFO,United, 3:24 PM ,5:00 PM,Nonstop,2h 36m,       $519   
